@@ -1,0 +1,1 @@
+pyinstaller -F  -i G:/UPseach/ico.ico G:/UPseach/MainScript.py
